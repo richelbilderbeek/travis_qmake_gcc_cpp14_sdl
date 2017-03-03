@@ -1,8 +1,8 @@
-# travis_qmake_gcc_cpp14_fltk
+# travis_qmake_gcc_cpp14_sdl
 
 [![Travis CI logo](TravisCI.png)](https://travis-ci.org)
 
-[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_fltk.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_fltk)
+[![Build Status](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_sdl.svg?branch=master)](https://travis-ci.org/richelbilderbeek/travis_qmake_gcc_cpp14_sdl)
 
 This GitHub is part of:
 
@@ -12,7 +12,7 @@ The goal of this project is to have a clean Travis CI build, with specs:
  * Build system: `qmake`
  * C++ compiler: `gcc`
  * C++ version: `C++14`
- * Libraries: `STL` and `FLTK`
+ * Libraries: `STL` and `SDL`
  * Code coverage: none
  * Source: one single file, `main.cpp`
 
